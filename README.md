@@ -1,4 +1,4 @@
-## Ola Smolna ==> 
+## Ola Smolna
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
