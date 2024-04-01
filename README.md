@@ -14,5 +14,5 @@ Welcome to my GitHub! I'm a Software Engineer with experience in developing web 
 
 ## Let's Connect
 
-I'm keen on connecting with others in the tech field to discuss new technologies, share project ideas, or simply talk shop. Feel free to reach out on [LinkedIn](#) or email me at [aleksandra.smolna@gmail.com].
+I'm keen on connecting with others in the tech field to discuss new technologies, share project ideas, or simply talk shop. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ola-smolna/) or email me at [aleksandra.smolna@gmail.com].
 
