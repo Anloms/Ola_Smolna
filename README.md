@@ -1,6 +1,6 @@
 ## Ola Smolna ==> 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 Welcome to my GitHub! I'm a Software Engineer with experience in developing web applications leveraging technologies such as React, Next.js, JavaScript, Node.js, and TypeScript. My approach focuses on breaking down complex problems into manageable solutions, striving for clean and practical code.
 
